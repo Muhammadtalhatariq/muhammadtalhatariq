@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhatariq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalhatariq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadtalhatariq" alt="muhammadtalhatariq" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/muhammad-talha 93" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad-talha 93?logo=twitter&style=for-the-badge" alt="muhammad-talha 93" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Tech**
@@ -29,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhatariq&show_icons=true&locale=en" alt="muhammadtalhatariq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhatariq&" alt="muhammadtalhatariq" /></p>
-
- 
